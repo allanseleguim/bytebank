@@ -1,3 +1,7 @@
+Amigos que forem testar, não esqueçam de com seu terminal acessar a pasta DB e dar um json-server --watch db.json para iniciar o WATCH do banco, claro, certifique-se que tenha instalado o JSON SERVER com o Comando npm install -g json-server e também NPM INSTALL na pasta raiz do projeto angular... forte abraço! 
+
+
+
 # Bytebank
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
